@@ -1,0 +1,18 @@
+C:\Users\Reza\Dropbox\teaching\VGP232_Tools\projects\batchProcessor\batchFileProcessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe.config
+C:\Users\Reza\Dropbox\teaching\VGP232_Tools\projects\batchProcessor\batchFileProcessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe
+C:\Users\Reza\Dropbox\teaching\VGP232_Tools\projects\batchProcessor\batchFileProcessor\batchFileProcessor\bin\Debug\batchFileProcessor.pdb
+C:\Users\Reza\Dropbox\teaching\VGP232_Tools\projects\batchProcessor\batchFileProcessor\batchFileProcessor\obj\Debug\batchFileProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Reza\Dropbox\teaching\VGP232_Tools\projects\batchProcessor\batchFileProcessor\batchFileProcessor\obj\Debug\batchFileProcessor.exe
+C:\Users\Reza\Dropbox\teaching\VGP232_Tools\projects\batchProcessor\batchFileProcessor\batchFileProcessor\obj\Debug\batchFileProcessor.pdb
+H:\courses\VGP232_Tools\projects\batchprocessor\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe.config
+H:\courses\VGP232_Tools\projects\batchprocessor\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.exe
+H:\courses\VGP232_Tools\projects\batchprocessor\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.pdb
+H:\courses\VGP232_Tools\projects\batchprocessor\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe
+H:\courses\VGP232_Tools\projects\batchprocessor\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.pdb
+H:\courses\VGP232_Tools\projects\batchprocessor\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.csprojResolveAssemblyReference.cache
+\\psf\Home\Art Institute\_Q2\VGP232 - game tools & pipelines\week3\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe.config
+\\psf\Home\Art Institute\_Q2\VGP232 - game tools & pipelines\week3\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.exe
+\\psf\Home\Art Institute\_Q2\VGP232 - game tools & pipelines\week3\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.pdb
+\\psf\Home\Art Institute\_Q2\VGP232 - game tools & pipelines\week3\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe
+\\psf\Home\Art Institute\_Q2\VGP232 - game tools & pipelines\week3\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.pdb
+\\psf\Home\Art Institute\_Q2\VGP232 - game tools & pipelines\week3\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.csprojResolveAssemblyReference.cache
