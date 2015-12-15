@@ -19,3 +19,6 @@ H:\courses\VGP232_Tools\projects\batchprocessor\batchfileprocessor\batchFileProc
 D:\Workspace2\trunk\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe.config
 D:\Workspace2\trunk\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.exe
 D:\Workspace2\trunk\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.pdb
+D:\workspace\trunk\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe.config
+D:\workspace\trunk\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.exe
+D:\workspace\trunk\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.pdb
