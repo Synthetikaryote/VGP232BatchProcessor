@@ -12,6 +12,8 @@ namespace batchFileProcessor
 		static long totalFilesLen = 0;
         static long fileCount = 0;
 
+        // this is a comment
+        // this is a comment
 		static void ProcessFile(IFileAccessLogic lo, System.IO.FileInfo fi)
 		{
 			totalFilesLen += fi.Length;
@@ -30,6 +32,8 @@ namespace batchFileProcessor
 				return;
 			}
 
+            // This is another comment
+            // This is another comment
 			FileAccessLogic accessor = new FileAccessLogic();
             accessor.FilePattern = "*.txt";
 			accessor.OnProcess += ProcessFile;
