@@ -174,7 +174,9 @@ namespace BatchFileFramework
 			if (OnProcess != null)
 				OnProcess(this, fileInfo);
 			if (OnNotify != null)
-				OnNotify("Processed file " +  fileInfo.ToString());
+                OnNotify("Processed file " + fileInfo.ToString() + " Size：" + fileInfo.Length + " Folder:" + fileInfo.FullName);
+
+            //Added the file length and file's fullname,these things will show in the txt
 
 		}
 	}
