@@ -16,3 +16,6 @@ H:\courses\VGP232_Tools\projects\batchprocessor\batchfileprocessor\batchFileProc
 \\psf\Home\Art Institute\_Q2\VGP232 - game tools & pipelines\week3\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe
 \\psf\Home\Art Institute\_Q2\VGP232 - game tools & pipelines\week3\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.pdb
 \\psf\Home\Art Institute\_Q2\VGP232 - game tools & pipelines\week3\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.csprojResolveAssemblyReference.cache
+D:\Workspace2\trunk\batchfileprocessor\batchFileProcessor\bin\Debug\batchFileProcessor.exe.config
+D:\Workspace2\trunk\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.exe
+D:\Workspace2\trunk\batchfileprocessor\batchFileProcessor\obj\Debug\batchFileProcessor.pdb
